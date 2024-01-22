@@ -1,6 +1,6 @@
 ## Demo of Website :- https://saurabhpandey9752.github.io/Map/
 
-# PPT : https://docs.google.com/presentation/d/185uYVznBI6WaFx-DnTIG2jB4sImjJndM/edit?usp=sharing&ouid=115371392160541994484&rtpof=true&sd=true
+# PPT : <a href="https://docs.google.com/presentation/d/1UrfSo1wqC9OkJApcg68CbzZey93MaP20/edit?usp=sharing&ouid=116176697618552690133&rtpof=true&sd=true">PPT</a>
 # Nirakshak - Geo Tagging and Video Analysis for Enhanced Public Safety
 
 Welcome to Nirakshak, a web interface online portal designed to revolutionize the geo-tagging of CCTV cameras. Our platform aims to streamline the work of law enforcement agencies by providing clear and accessible information on private and public cameras, thus reducing the burden on investigations.
